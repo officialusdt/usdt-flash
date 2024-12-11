@@ -15,7 +15,7 @@ The importance of USDT Flash in the world of cryptocurrency lies in its ability 
   TRC20/ERC20/BEP20/BSC20/POLYGON/BASE
 
 - **Automated Risk Assessment**  
-  Built-in protocols evaluate and safeguard each transaction.
+  Built-in protocols evaluate and safeguard each usdt flash transaction.
 
 - **Smart Contract Integration**  
   Execute transactions efficiently with direct interaction with blockchain protocols.
